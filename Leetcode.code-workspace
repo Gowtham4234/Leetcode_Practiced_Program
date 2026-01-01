@@ -1,10 +1,10 @@
 {
     "folders": [
         {
-            "path": "../Leetcode_Quest"
+            "path": "."
         },
         {
-            "path": "."
+            "path": "../Leetcode_Quest"
         }
     ]
 }
